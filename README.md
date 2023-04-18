@@ -1,4 +1,4 @@
-# Analyzing-Amazon-Sales-data-
+# Analyzing Amazon Sales Data
 
 
 Amazon Sales Data Analysis
